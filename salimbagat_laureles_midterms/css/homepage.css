@@ -1,0 +1,137 @@
+
+        .update-eye,
+        .addeye {
+            position: absolute;
+            top: 51%;
+            right: 5%;
+            cursor: pointer;
+            color: black;
+            user-select: none;
+        }
+
+        #delbtn {
+            background: #fbd0d9;
+            color: crimson;
+            cursor: pointer;
+        }
+
+        #delbtn:hover {
+            color: #fff;
+            background: crimson;
+        }
+
+        .udBtn {
+            background: #157347;
+            color: #E5EFEA;
+            cursor: pointer;
+        }
+
+        .udBtn:hover {
+            background: #B1D0C1;
+            color: #157347;
+        }
+
+        .addDatabtn {
+            background: #0B5ED7;
+            color: #fff;
+            cursor: pointer;
+        }
+
+        .addDatabtn:hover {
+            background: #ADC9F1;
+            color: #0B5ED7;
+        }
+
+
+
+
+
+    /* Dark Mode Style */
+    body {
+        background-color: #222;
+        color: #fff;
+    }
+
+    .jumbotron {
+        background-color: #333;
+    }
+
+    .card {
+        background-color: #444;
+        color: #fff;
+    }
+
+    .table {
+        background-color: #333;
+        color: #fff;
+    }
+
+    .table-bordered,
+    .table-bordered th,
+    .table-bordered td {
+        border-color: #555;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #555;
+    }
+
+    .table-danger th,
+    .table-danger td {
+        background-color: #9c9c9c;
+        color: #fff;
+    }
+
+    .btn-primary {
+        background-color: #337ab7;
+        border-color: #337ab7;
+    }
+
+    .btn-success,
+    .btn-success:hover {
+        background-color: #5cb85c;
+        border-color: #5cb85c;
+    }
+
+    .btn-danger,
+    .btn-danger:hover {
+        background-color: #d9534f;
+        border-color: #d9534f;
+    }
+
+
+
+    /* Modal Style */
+    .modal-content {
+        background-color: #ffffff;
+    }
+
+    .modal-title {
+        color: #000000;
+    }
+
+    .form-floating label {
+        color: #000000;
+    }
+
+    .form-floating input::placeholder,
+    .form-floating select::placeholder {
+        color: #8c8c8c;
+    }
+
+    .form-floating input:focus::placeholder,
+    .form-floating select:focus::placeholder {
+        color: #bfbfbf;
+    }
+
+    .btn-success {
+        background-color: #28a745;
+        color: #ffffff;
+    }
+
+    .btn-success:hover {
+        background-color: #218838;
+    }
+    
+
+
